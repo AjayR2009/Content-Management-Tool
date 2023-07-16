@@ -1,2 +1,2 @@
-# content
-This is my first project of bharatintern of full stack developement
+# BharatIntern_Task-1
+This is my First task of BharatIntern for full stack Development on Content Management Tool.
